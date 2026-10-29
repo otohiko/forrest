@@ -1,5 +1,5 @@
 {
-    "name": "playable-cn/forrest",
+    "name": "otohiko/forrest",
     "description": "A Laravel library for Salesforce",
     "license":"MIT",
     "keywords":["salesforce", "laravel", "rest", "force.com", "force"],

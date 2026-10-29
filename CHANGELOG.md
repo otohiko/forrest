@@ -1,5 +1,6 @@
 # CHANGELOG
 ##v2.5.18 (2026-10-26)
+[CHANGE] rename the package to otohiko/forrest (published on Packagist from github.com/otohiko/forrest)
 [FIX] declare properties assigned dynamically (deprecated since PHP 8.2)
 
 ##v2.5.16 (2026-06-25)
